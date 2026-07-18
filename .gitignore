@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+## this is created by macos, so we donot need this. 
+**/.DS_Store
